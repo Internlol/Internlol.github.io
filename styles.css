@@ -25,12 +25,11 @@
     width: 80%;
   }
 
+.principal:hover {
+    transform: scale(1.05);
+}
+
 .portrait {
     height: 245px;
     width: 245px;
-}
-
-.portrait:hover {
-    margin-right: 150px;
-    transform: scale(2);
 }
